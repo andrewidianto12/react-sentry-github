@@ -49,7 +49,7 @@ function App() {
         <button
           onClick={() => {
             setCount((count) => count + 1);
-            handleclick("Error brooo");
+            handleclick("Error 2 brooo");
           }}
         >
           count is {count}
